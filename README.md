@@ -68,16 +68,3 @@ GitHub Profile
 
 This project is open-source and free to use for learning and portfolio purposes.
 
-
-6. **Save the file** (`Ctrl + S`)
-
-✅ You now have a proper README!
-
----
-
-## ✅ STEP 2: Upload it to GitHub
-
-### Open Command Prompt:
-
-```bash
-cd Desktop\log-analysis-project
